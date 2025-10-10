@@ -1320,13 +1320,13 @@
                     name: "Deltarune - RUYP",
                     type: "Interactive",
                     link: "https://www.khanacademy.org/computer-programming/deltarune-chapter-3-toby-fox-raise-up-your-bat/4619453582131200",
-                    favorite: false
+                    favorite: true
                 },
                 {
                     name: "1st EP Cover",
                     type: "Animation",
                     link: "https://www.khanacademy.org/computer-programming/1st-ep/5062817045659648",
-                    favorite: false
+                    favorite: true
                 },
                 {
                     name: "WSMR",
@@ -1439,3 +1439,4 @@
             ]
 
         };
+
