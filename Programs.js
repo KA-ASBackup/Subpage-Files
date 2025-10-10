@@ -1215,9 +1215,9 @@
                     favorite: false
                 },
                 {
-                    name: "https://www.khanacademy.org/computer-programming/2-mission-biome/4797836408438784",
+                    name: "Mission Biome",
                     type: "Game",
-                    link: "Mission Biome",
+                    link: "https://www.khanacademy.org/computer-programming/2-mission-biome/4797836408438784",
                     favorite: false
                 },
                 {
@@ -1437,4 +1437,5 @@
                     favorite: false
                 }
             ]
+
         };
