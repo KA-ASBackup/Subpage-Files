@@ -1,6 +1,37 @@
         window.importedPrograms = {
             "ASBackup": [
                 {
+                    name: "P&K R3 Results",
+                    type: "Animation",
+                    link: "https://www.khanacademy.org/computer-programming/the-finalists/4862330249265152",
+                    favorite: false
+                },
+                {
+                    name: "Music Player",
+                    type: "Interactive",
+                    link: "https://www.khanacademy.org/computer-programming/music-player-my-1st-2-eps/5172009236021248",
+                    favorite: false
+                },
+                {
+                    name: "P&K R2 Results",
+                    type: "Animation",
+                    link: "https://www.khanacademy.org/computer-programming/pros-khans-round-2-results/6154478290583552",
+                    favorite: false
+                },
+                {
+                    name: "P&K MJ Reveal",
+                    type: "Animation",
+                    link: "https://www.khanacademy.org/computer-programming/mystery-judge-reveal/5264766776492032",
+                    favorite: false
+                },
+                {
+                    name: "P&K R1 Results",
+                    type: "Animation",
+                    link: "https://www.khanacademy.org/computer-programming/pros-khans-round-1-results/5943173789106176",
+                    favorite: false
+                },
+                    
+                {
                     name: "P&K 25 Announcement",
                     type: "Animation",
                     link: "https://www.khanacademy.org/computer-programming/-/4777527474765824",
@@ -1439,4 +1470,5 @@
             ]
 
         };
+
 
