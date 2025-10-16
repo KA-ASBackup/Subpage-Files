@@ -1198,12 +1198,6 @@
                     favorite: false
                 },
                 {
-                    name: "",
-                    type: "Game",
-                    link: "",
-                    favorite: false
-                },
-                {
                     name: "Trap",
                     type: "Game",
                     link: "https://www.khanacademy.org/computer-programming/9-trap/6213982449352704",
@@ -1292,6 +1286,12 @@
             ],
             "ASHomework": [
                 {
+                    name: "Pepsi Rebrand",
+                    type: "Graphic",
+                    link: "https://www.khanacademy.org/computer-programming/pepsi-redesign/6743747845537792",
+                    favorite: false
+                },
+                {
                     name: "GE Trading Cards",
                     type: "Interactive",
                     link: "https://www.khanacademy.org/computer-programming/great-expectations-card-templates/6231102381998080",
@@ -1373,7 +1373,7 @@
                 },
                 {
                     name: "TFC Logo",
-                    type: "Game",
+                    type: "Graphic",
                     link: "https://www.khanacademy.org/computer-programming/toronto-fc-logo-edit/5790505541681152",
                     favorite: false
                 },
@@ -1470,5 +1470,6 @@
             ]
 
         };
+
 
 
