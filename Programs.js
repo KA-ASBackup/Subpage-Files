@@ -711,13 +711,13 @@
                 },
                 {
                     name: "Lil' Bros Drawing 2",
-                    type: "Game",
+                    type: "Graphic",
                     link: "https://www.khanacademy.org/computer-programming/-/5176838951059456",
                     favorite: false
                 },
                 {
                     name: "Lil' Bros Drawing",
-                    type: "Game",
+                    type: "Graphic",
                     link: "https://www.khanacademy.org/computer-programming/-/4838015251562496",
                     favorite: false
                 },
@@ -1530,3 +1530,4 @@
             ]
 
         };
+
