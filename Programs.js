@@ -1,6 +1,24 @@
         window.importedPrograms = {
             "ASBackup": [
                 {
+                    name: "Legacy Announcement",
+                    type: "Animation",
+                    link: "https://www.khanacademy.org/computer-programming/legacy-trailer/4683643455389696",
+                    favorite: true,
+                },
+                {
+                    name: "PK25 Awards Ceremony",
+                    type: "Interactive",
+                    link: "https://www.khanacademy.org/computer-programming/pk25-awards-ceremony/4608050198069248",
+                    favorite: false,
+                },
+                {
+                    name: "Manifest",
+                    type: "Graphic",
+                    link: "https://www.khanacademy.org/computer-programming/manifest/6503569465917440",
+                    favorite: true,
+                },
+                {
                     name: "P&K R3 Results",
                     type: "Animation",
                     link: "https://www.khanacademy.org/computer-programming/the-finalists/4862330249265152",
@@ -1336,6 +1354,48 @@
             ],
             "ASBackup 2": [
                 {
+                    name: "TN Test + Orbit Sim",
+                    type: "Interactive",
+                    link: "https://www.khanacademy.org/computer-programming/orbit-simulator-thumbnail-border-test/6189375945293824",
+                    favorite: false,
+                },
+                {
+                    name: "Transition Tutorial",
+                    type: "Interactive",
+                    link: "https://www.khanacademy.org/computer-programming/simple-transition-tutorial/5342378829922304",
+                    favorite: false,
+                },
+                {
+                    name: "PK25 Medals",
+                    type: "Graphic",
+                    link: "https://www.khanacademy.org/computer-programming/pk25-medals/5868433407852544",
+                    favorite: false,
+                },
+                {
+                    name: "PK25 Logo",
+                    type: "Graphic",
+                    link: "https://www.khanacademy.org/computer-programming/pk25-logo/6298467218079744",
+                    favorite: false,
+                },
+                {
+                    name: "Advanced Bots",
+                    type: "Interactive",
+                    link: "https://www.khanacademy.org/computer-programming/advanced-bot-liam-k-demo/6376983213228032",
+                    favorite: true,
+                },
+                {
+                    name: "Cape",
+                    type: "Graphic",
+                    link: "https://www.khanacademy.org/computer-programming/wip/4661229677821952",
+                    favorite: false,
+                },
+                {
+                    name: "IIFE & ImageData",
+                    type: "Graphic",
+                    link: "https://www.khanacademy.org/computer-programming/playing-with-iife-imagedatadata/5324464733143040",
+                    favorite: false,
+                },
+                {
                     name: "OG P&K Homepage",
                     type: "Interactive",
                     link: "https://www.khanacademy.org/computer-programming/original-pros-khans-homepage/4876035972251648",
@@ -1470,7 +1530,3 @@
             ]
 
         };
-
-
-
-
