@@ -1,6 +1,12 @@
         window.importedPrograms = {
             "ASBackup": [
                 {
+                    name: "KAAC 25",
+                    type: "Interactive",
+                    link: "https://www.khanacademy.org/computer-programming/khanacademy-awards-ceremony-2025/5757441687535616",
+                    favorite: true,
+                },
+                {
                     name: "Legacy Announcement",
                     type: "Animation",
                     link: "https://www.khanacademy.org/computer-programming/legacy-trailer/4683643455389696",
@@ -1530,4 +1536,5 @@
             ]
 
         };
+
 
