@@ -1,6 +1,36 @@
         window.importedPrograms = {
             "ASBackup": [
                 {
+                        name: "zephyr",
+                        type: "Animation",
+                        link: "https://www.khanacademy.org/computer-programming/zephyr-4th-ep-cover-art/5361260178292736",
+                        favorite: false,
+                },
+                {
+                        name: "El Fideo",
+                        type: "Graphic",
+                        link: "https://www.khanacademy.org/computer-programming/el-fideo/5924251156201472",
+                        favorite: false,
+                },
+                {
+                        name: "Lonely King",
+                        type: "Graphic",
+                        link: "https://www.khanacademy.org/computer-programming/cg5-lonely-king-graphic/4703767185965056",
+                        favorite: false,
+                },
+                {
+                        name: "Towers in Time [CoC]",
+                        type: "Game",
+                        link: "https://www.khanacademy.org/computer-programming/towers-in-time-coc/6215132321005568",
+                        favorite: false,
+                },
+                {
+                        name: "Bit [CoC]",
+                        type: "Game",
+                        link: "https://www.khanacademy.org/computer-programming/bit-coc/4825181626941440",
+                        favorite: false,
+                },
+                {
                     name: "KAAC 25",
                     type: "Interactive",
                     link: "https://www.khanacademy.org/computer-programming/khanacademy-awards-ceremony-2025/5757441687535616",
@@ -1316,12 +1346,6 @@
                     favorite: false
                 },
                 {
-                    name: "GE Trading Cards",
-                    type: "Interactive",
-                    link: "https://www.khanacademy.org/computer-programming/great-expectations-card-templates/6231102381998080",
-                    favorite: false
-                },
-                {
                     name: "Business Task",
                     type: "Interactive",
                     link: "https://www.khanacademy.org/computer-programming/business-entrepreneurship-task/5844234384031744",
@@ -1360,6 +1384,12 @@
             ],
             "ASBackup 2": [
                 {
+                    name: "hmm",
+                    type: "graphic",
+                    link: "https://www.khanacademy.org/computer-programming/hmm/6561197977092096",
+                    favorite: false,
+                },
+                {
                     name: "TN Test + Orbit Sim",
                     type: "Interactive",
                     link: "https://www.khanacademy.org/computer-programming/orbit-simulator-thumbnail-border-test/6189375945293824",
@@ -1375,12 +1405,6 @@
                     name: "PK25 Medals",
                     type: "Graphic",
                     link: "https://www.khanacademy.org/computer-programming/pk25-medals/5868433407852544",
-                    favorite: false,
-                },
-                {
-                    name: "PK25 Logo",
-                    type: "Graphic",
-                    link: "https://www.khanacademy.org/computer-programming/pk25-logo/6298467218079744",
                     favorite: false,
                 },
                 {
@@ -1438,33 +1462,9 @@
                     favorite: false
                 },
                 {
-                    name: "TFC Logo",
-                    type: "Graphic",
-                    link: "https://www.khanacademy.org/computer-programming/toronto-fc-logo-edit/5790505541681152",
-                    favorite: false
-                },
-                {
-                    name: "Game Intro",
-                    type: "Animation",
-                    link: "https://www.khanacademy.org/computer-programming/game-intro/6293426343624704",
-                    favorite: false
-                },
-                {
                     name: "SS TTCC",
                     type: "Interactive",
                     link: "https://www.khanacademy.org/computer-programming/japanese-trading-cards/5914999660855296",
-                    favorite: false
-                },
-                {
-                    name: "Gravy Granules",
-                    type: "Interactive",
-                    link: "https://www.khanacademy.org/computer-programming/gravy-granules/5788049235623936",
-                    favorite: false
-                },
-                {
-                    name: "Kinger",
-                    type: "Animation",
-                    link: "https://www.khanacademy.org/computer-programming/kinger/5345046478045184",
                     favorite: false
                 },
                 {
@@ -1474,57 +1474,9 @@
                     favorite: false
                 },
                 {
-                    name: "82 Characters Button",
-                    type: "Interactive",
-                    link: "https://www.khanacademy.org/computer-programming/button-82-characters/5260383252234240",
-                    favorite: false
-                },
-                {
-                    name: "Khan Logo",
-                    type: "Graphic",
-                    link: "https://www.khanacademy.org/computer-programming/khan-logo/5576706117189632",
-                    favorite: false
-                },
-                {
-                    name: "AKKMC Video Systems",
-                    type: "Animation",
-                    link: "https://www.khanacademy.org/computer-programming/akkmc-video-systems/6030742142435328",
-                    favorite: false
-                },
-                {
                     name: "Poly Buttons",
                     type: "Interactive",
                     link: "https://www.khanacademy.org/computer-programming/poly-button-collisions-2/5449975792254976",
-                    favorite: false
-                },
-                {
-                    name: "Poly Button",
-                    type: "Interactive",
-                    link: "https://www.khanacademy.org/computer-programming/poly-button-collisions-1/4886819705569280",
-                    favorite: false
-                },
-                {
-                    name: "ZA2 Store",
-                    type: "Interactive",
-                    link: "https://www.khanacademy.org/computer-programming/za2-store/4852320858914816",
-                    favorite: false
-                },
-                {
-                    name: "ZA2 Physics",
-                    type: "Interactive",
-                    link: "https://www.khanacademy.org/computer-programming/za2-physics/6204890718257152",
-                    favorite: false
-                },
-                {
-                    name: "ZA2 Range Finding",
-                    type: "Interactive",
-                    link: "https://www.khanacademy.org/computer-programming/za2-range-finding/4650820790501376",
-                    favorite: false
-                },
-                {
-                    name: "ZA2 Weapons",
-                    type: "Interactive",
-                    link: "https://www.khanacademy.org/computer-programming/za2-weapons/4926263871520768",
                     favorite: false
                 },
                 {
@@ -1536,5 +1488,6 @@
             ]
 
         };
+
 
 
