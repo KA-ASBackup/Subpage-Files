@@ -1,6 +1,31 @@
         window.importedPrograms = {
             "ASBackup": [
                 {
+                    name: "3D Skin",
+                    type: "Animation",
+                    link: "https://www.khanacademy.org/computer-programming/3d-walking-skin/6705060331765760",
+                    favorite: false,
+                },
+                {
+                    name: "#1 Scariest Program",
+                    type: "Interactive",
+                    link: "https://www.khanacademy.org/computer-programming/scariest-program-on-ka/5493414523420672",
+                    favorite: false,
+                },
+                {
+                    name: "Canadian Medal",
+                    type: "Graphic",
+                    link: "https://www.khanacademy.org/computer-programming/canadian-medal/6119044726243328",
+                    favorite: false,
+                },
+                {
+                    name: "Untitled Submarine Game",
+                    type: "Game",
+                    link: "https://www.khanacademy.org/computer-programming/deep-dark-dive-and-also-wahts-yellow-cactuses/4557226102865920",
+                    favorite: false,
+                },
+                    
+                {
                     name: "zephyr",
                     type: "Animation",
                     link: "https://www.khanacademy.org/computer-programming/zephyr-4th-ep-cover-art/5361260178292736",
